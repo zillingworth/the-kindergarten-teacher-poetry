@@ -23,6 +23,14 @@
         "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/kindergarten-teacher-jimmy-poem-1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 33.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/kindergarten-teacher-jimmy-poem-1/canvas-1/canvas/Sound-.json",
+            "label": "Sound "
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/kindergarten-teacher-jimmy-poem-1/canvas-1/paintings",
