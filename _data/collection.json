@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "The Kindergarten Teacher " ] },
+    "summary": { "en": [ "Annotations of poetry performances from Sara Colangelo&#39;s 2019 film The Kindergarten Teacher" ] },
+    "items": [
+    ]
+}
