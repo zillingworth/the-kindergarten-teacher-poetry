@@ -23,14 +23,6 @@
         "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
         "type": "Canvas",
         "duration": 33.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/Image.json",
-            "label": "Image"
-          }
-        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/paintings",
