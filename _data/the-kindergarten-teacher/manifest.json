@@ -27,12 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/S_Layer.json",
-            "label": "S_Layer"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/Image.json",
             "label": "Image"
           }
