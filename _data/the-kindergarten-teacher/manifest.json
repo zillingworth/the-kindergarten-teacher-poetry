@@ -22,7 +22,7 @@
       {
         "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 33.0,
+        "duration": 33,
         "items": [
           {
             "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/paintings",
@@ -36,7 +36,7 @@
                   "id": "https://archive.org/download/kindergarten-teacher-jimmie-poem-1/Kindergarten Teacher Jimmie Poem 1.mp4",
                     "type": "Video",
                     "format": "video/mp4",
-                    "duration": 33.0
+                    "duration": 33
                 },
                 "target": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas"
               }
