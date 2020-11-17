@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/sound-and-image.json",
+  "type": "AnnotationPage",
+  "label": "Sound and Image",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/sound-and-image-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jimmy mumbles inaudibly \rMedium shot of Lisa looking through doorway ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,7.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/sound-and-image-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to medium shot (face) of Lisa Looking through doorway \rJimmy's voice becomes clear \"Anna is beautiful\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "7.25,14.28"
+        }
+      }
+    }
+  ]
+}

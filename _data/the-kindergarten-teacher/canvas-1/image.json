@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/image.json",
+  "type": "AnnotationPage",
+  "label": "Image",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/image-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lisa edges through the doorway and stands almost fully inside classroom gazing at Jimmy in a medium shot",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "14.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/image-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to shallow focus close-up as Jimmy continues reciting \n",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "14.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/image-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to shallow focus close-up of Jimmy pacing into and out of the frame reciting \"Anna' \r\r\r",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15.01,26.16"
+        }
+      }
+    }
+  ]
+}

@@ -23,6 +23,32 @@
         "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
         "type": "Canvas",
         "duration": 33,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/sound.json",
+            "label": "Sound"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/image.json",
+            "label": "Image"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/sound-.json",
+            "label": "Sound "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/sound-and-image.json",
+            "label": "Sound and Image"
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/paintings",

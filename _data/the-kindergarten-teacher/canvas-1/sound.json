@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/sound.json",
+  "type": "AnnotationPage",
+  "label": "Sound",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/sound-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jimmy voice over continues, ending the phrase \"Anna's beautiful\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "11.11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas/sound-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The sun'\t00;00;19;01\t00;00;19;01\t00;00;00;00\tComment\t\r\nSound\tHits her yellow house\t00;00;20;16\t00;00;20;16\t00;00;00;00\tComment\t\r\nImage\tCut back to medium long shot of Lisa watching Jimmy through doorway\t00;00;26;17\t00;00;26;17\t00;00;00;00\tComment\t\r\nSound\tIt's almost like a sign from God. \t00;00;27;26\t00;00;27;26\t00;00;00;00\tComment\t\r\nSound\tEnd clip, Lisa edges into classroom begins to ask 'What was that?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "33.07"
+        }
+      }
+    }
+  ]
+}
