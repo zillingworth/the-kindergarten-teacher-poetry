@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "The Bull read by Lisa" ] },
+    "homepage": [
+      {
+        "id": "archive.org",
+        "type": "Text",
+        "label": { "en": [ "Home page for The Bull read by Lisa" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "",
+        "type": "Agent",
+        "label": { "en": [ "" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 132.0,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801705.us.archive.org/23/items/the-bull-workshop/_The%20Bull_%20Workshop.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 132.0
+                },
+                "target": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
