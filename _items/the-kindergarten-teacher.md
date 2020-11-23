@@ -1,6 +1,6 @@
 ---
 layout: item
-title: The Kindergarten Teacher
+title: Jimmy Reciting &quot;Anna&quot;
 manifest_name: the-kindergarten-teacher
 ---
 <!-- Add an essay or interpretive material below this line,

@@ -1,5 +1,5 @@
 ---
 layout: manifest
-title: The Kindergarten Teacher
+title: Jimmy Reciting &quot;Anna&quot;
 manifest_name: the-kindergarten-teacher
 ---
