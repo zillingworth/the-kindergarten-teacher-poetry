@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/canvas-1/canvas/cinematography-and-editing.json",
+  "type": "AnnotationPage",
+  "label": "Cinematography and editing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/canvas-1/canvas/cinematography-and-editing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to a series of close-ups and medium-close-ups as the babysitter hands Lisa the poem ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "13.1"
+        }
+      }
+    }
+  ]
+}
