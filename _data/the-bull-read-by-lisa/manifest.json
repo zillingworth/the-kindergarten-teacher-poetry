@@ -22,7 +22,7 @@
       {
         "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 132.0,
+        "duration": 132,
         "annotations": [
           
           {
@@ -98,7 +98,7 @@
                   "id": "https://ia801705.us.archive.org/23/items/the-bull-workshop/_The%20Bull_%20Workshop.mp4",
                     "type": "Video",
                     "format": "video/mp4",
-                    "duration": 132.0
+                    "duration": 132
                 },
                 "target": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-read-by-lisa/canvas-1/canvas"
               }
