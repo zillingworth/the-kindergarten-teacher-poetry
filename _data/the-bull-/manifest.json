@@ -13,7 +13,7 @@
     ],
     "provider": [
       {
-        "id": "https://archive.org/details/the-bull-workshop",
+        "id": "archive.org",
         "type": "Agent",
         "label": { "en": [ "Archive.org" ] }
       }
