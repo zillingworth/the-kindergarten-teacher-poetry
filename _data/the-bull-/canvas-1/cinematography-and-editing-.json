@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas/cinematography-and-editing-.json",
+  "type": "AnnotationPage",
+  "label": "Cinematography and editing ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas/cinematography-and-editing--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut back to close-up of Lisa from a high angle ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "77.05"
+        }
+      }
+    }
+  ]
+}

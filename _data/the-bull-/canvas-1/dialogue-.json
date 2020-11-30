@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas/dialogue-.json",
+  "type": "AnnotationPage",
+  "label": "Dialogue ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas/dialogue--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So dark ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "27.13"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas/cinematogaphy-and-editing.json",
+  "type": "AnnotationPage",
+  "label": "Cinematogaphy and Editing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas/cinematogaphy-and-editing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to close-up of \"The Bull\" in a lined notebook from Lisa's point of view with her pencil in her hand",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "22.02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas/cinematogaphy-and-editing-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to close-up of Simon listening to the poem in profile against the chalkboard",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "42.16"
+        }
+      }
+    }
+  ]
+}
