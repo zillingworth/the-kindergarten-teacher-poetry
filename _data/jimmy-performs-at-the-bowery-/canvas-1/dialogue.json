@@ -1,0 +1,155 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/dialogue.json",
+  "type": "AnnotationPage",
+  "label": "Dialogue",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/dialogue-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lisa: “Hi, this is Jimmy Roy and he’ll be reciting two poems for you today.”",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "20.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/dialogue-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Man in hat: \"I’m sorry to ask such a basic question but are these your poems and if so are you using him as a sort of poetic medium??",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "90.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/dialogue-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lisa: Um,  no these are his poems he wrote them.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "102.05"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/dialogue-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Offscreen male voice: \"For the young man, how long have you been writing poetry?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "115.05"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/dialogue-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jimmy: \"I started when I was five.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "121.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/dialogue-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Young woman in a black dress:: Jimmy, I was wondering, who is this Anna that you write about?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "126.09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/dialogue-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jimmy: Anna could be anyone you love. For me, she’s my kindergarten teacher’s helper, Megan.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "132.15"
+        }
+      }
+    }
+  ]
+}

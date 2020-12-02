@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/narrative-and-sound.json",
+  "type": "AnnotationPage",
+  "label": "Narrative and Sound",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/narrative-and-sound-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The crowd claps for the previous poet leaving the stage.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}

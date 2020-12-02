@@ -23,6 +23,74 @@
         "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 161.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/narrative.json",
+            "label": "Narrative"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography.json",
+            "label": "Cinematography"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing-.json",
+            "label": "Cinematography and Editing "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing.json",
+            "label": "Cinematography and Editing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-.json",
+            "label": "Cinematography "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/sound.json",
+            "label": "Sound"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/narrative-and-sound.json",
+            "label": "Narrative and Sound"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/sound--.json",
+            "label": "Sound  "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/dialogue.json",
+            "label": "Dialogue"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/poem-recitation.json",
+            "label": "Poem Recitation"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/sound-.json",
+            "label": "Sound "
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/paintings",

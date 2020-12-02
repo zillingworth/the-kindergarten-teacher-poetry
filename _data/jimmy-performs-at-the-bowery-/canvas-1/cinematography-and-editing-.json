@@ -1,0 +1,344 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing-.json",
+  "type": "AnnotationPage",
+  "label": "Cinematography and Editing ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to medium shot of Lisa and Jimmy in low key lighting, seated in the crowd as they start to get up to take the stage.  ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "4.09"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to close-up, tracking shot of Lisa adjusting the microphone to Jimmy's short stature and then introducing him ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "19.28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The tracking shot continues to focus on Lisa's expression (a smile) in a medium shot, keeping the focus on her, though Jimmy begins to recite. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "38.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut back to Jimmy in shallow focus, close-up still in profile ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "78.17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut back to medium shot of Lisa against the wall, but her gaze is downcast towards Jimmy",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "83.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to extreme long shot of Lisa and Jimmy on stage with the man in the hat asking a question in the far corner of the frame ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "90.08"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to medium shot of Lisa against wall ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "98.1"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Tracking shot of Lisa answering the question into the microphone as she bends down to the mic positioned at Jimmy's height",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "102.24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut back to medium shot of Lisa against the wall ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "111.25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut back to Jimmy in shallow focus close-up in profile ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "115.21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jump cut to medium shot of Jimmy from right side as the woman in the black dress asks the question ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "124.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to medium close shot of Lisa against wall",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "128.14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to shallow focus close-up of Jimmy; this in a frontal portrait next to the microphone. We see his large, wide-eyes and the scale of his height next to the microphone.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "136.22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut back to medium shot of Lisa against wall as she looks down at Jimmy approvingly",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "140.03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The camera begins a slow zoom closer to Lisa, creating a feeling of claustrophobia as her lie has been gradually revealed.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "144.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/cinematography-and-editing--annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to long shot of Lisa leaving stage and Jimmy follows her ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "149.02"
+        }
+      }
+    }
+  ]
+}

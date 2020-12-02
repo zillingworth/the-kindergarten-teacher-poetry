@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/poem-recitation.json",
+  "type": "AnnotationPage",
+  "label": "Poem Recitation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/poem-recitation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jimmy begins to recite Anna with the following pauses: \"Anna is beautiful / beautiful enough for me / the sun hits her yellow house / it’s almost like a sign from god\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "37.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas/poem-recitation-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jimmy begins to recite \"The Bull\" with the following pauses: \"The bull stood alone in the backyard / so dark / I opened the door and stepped out / wind in the branches / he watched me blue eyes / he kept breahting to stay alive / I didn’t want him I was just a boy / say yes / say yes /anyway.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "55.17"
+        }
+      }
+    }
+  ]
+}
