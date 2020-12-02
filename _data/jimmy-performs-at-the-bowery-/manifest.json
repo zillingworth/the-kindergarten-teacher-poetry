@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Jimmy Performs at the Bowery " ] },
+    "homepage": [
+      {
+        "id": "",
+        "type": "Text",
+        "label": { "en": [ "Home page for Jimmy Performs at the Bowery " ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "Archive.org" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 161.0,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801906.us.archive.org/16/items/jimmy-performs-at-the-bowery/Jimmy%20performs%20at%20the%20Bowery.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 161.0
+                },
+                "target": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-performs-at-the-bowery-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
