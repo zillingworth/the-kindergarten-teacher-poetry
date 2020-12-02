@@ -7,7 +7,7 @@
       {
         "id": "archive.org",
         "type": "Text",
-        "label": { "en": [ "Home page for The Bull " ] },
+        "label": { "en": [ "The Bull " ] },
         "format": "text/html"
       }
     ],
