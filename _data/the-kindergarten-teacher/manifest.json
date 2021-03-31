@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-kindergarten-teacher/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Jimmy Reciting "Anna"" ] },
+    "label": { "en": [ "Jimmy Reciting Anna" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/kindergarten-teacher-jimmie-poem-1",
         "type": "Text",
-        "label": { "en": [ "Home page for Jimmy Reciting "Anna"" ] },
+        "label": { "en": [ "Home page for Jimmy Reciting Anna" ] },
         "format": "text/html"
       }
     ],
