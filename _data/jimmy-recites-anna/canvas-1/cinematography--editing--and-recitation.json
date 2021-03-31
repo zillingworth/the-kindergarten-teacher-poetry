@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/cinematography--editing--and-recitation.json",
+  "type": "AnnotationPage",
+  "label": "Cinematography, Editing, and Recitation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/cinematography--editing--and-recitation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to medium shot of Lisa through the doorway and we can hear Jimmy say \"Anna's beautiful\" to begin the poem",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "7.27"
+        }
+      }
+    }
+  ]
+}

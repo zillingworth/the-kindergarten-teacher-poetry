@@ -23,6 +23,56 @@
         "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas",
         "type": "Canvas",
         "duration": 33,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/poetry-recitation.json",
+            "label": "Poetry Recitation"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/cinematography.json",
+            "label": "Cinematography"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/cinematography-and-editing.json",
+            "label": "Cinematography and Editing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/cinematography-and-dialogue.json",
+            "label": "Cinematography and Dialogue"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/editing.json",
+            "label": "Editing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/editing-and-cinematography.json",
+            "label": "Editing and Cinematography"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/dialogue.json",
+            "label": "Dialogue"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/cinematography--editing--and-recitation.json",
+            "label": "Cinematography, Editing, and Recitation"
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/paintings",

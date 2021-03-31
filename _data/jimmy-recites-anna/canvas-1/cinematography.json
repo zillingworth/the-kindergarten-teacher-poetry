@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/cinematography.json",
+  "type": "AnnotationPage",
+  "label": "Cinematography",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/cinematography-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jimmy paces into and out of view through the classroom door in a medium long shot, demonstrating simultaneity; Lisa in medium close and Jimmy in medium long.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3.26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/cinematography-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lisa edges through the doorway and stands almost fully inside classroom gazing at Jimmy in a medium shot",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "14.12"
+        }
+      }
+    }
+  ]
+}

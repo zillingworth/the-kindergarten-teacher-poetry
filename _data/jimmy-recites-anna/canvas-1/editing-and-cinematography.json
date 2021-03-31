@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/editing-and-cinematography.json",
+  "type": "AnnotationPage",
+  "label": "Editing and Cinematography",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas/editing-and-cinematography-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut back to medium long shot of Lisa watching Jimmy through doorway",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "26.17"
+        }
+      }
+    }
+  ]
+}
