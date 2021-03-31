@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/the-bull-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "The Bull " ] },
+    "label": { "en": [ "The Bull in Workshop" ] },
     "homepage": [
       {
         "id": "archive.org",
         "type": "Text",
-        "label": { "en": [ "The Bull " ] },
+        "label": { "en": [ "The Bull in Workshop" ] },
         "format": "text/html"
       }
     ],
