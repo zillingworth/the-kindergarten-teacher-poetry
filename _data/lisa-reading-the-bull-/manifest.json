@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/lisa-reading-the-bull-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Lisa Reading \"The Bull\"" ] },
+    "label": { "en": [ "Lisa Reading The Bull" ] },
     "homepage": [
       {
         "id": "Archive.org",
         "type": "Text",
-        "label": { "en": [ "Home page for Lisa Reading \"The Bull\"" ] },
+        "label": { "en": [ "Home page for Lisa Reading The Bull" ] },
         "format": "text/html"
       }
     ],
