@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Jimmy Recites Anna" ] },
+    "homepage": [
+      {
+        "id": "archive.org",
+        "type": "Text",
+        "label": { "en": [ "Jimmy Recites Anna" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "archive.org" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 33,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia803203.us.archive.org/28/items/kindergarten-teacher-jimmie-poem-1/Kindergarten%20Teacher%20Jimmie%20Poem%201.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 33
+                },
+                "target": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/jimmy-recites-anna/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
