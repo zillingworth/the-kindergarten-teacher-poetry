@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Final Scene" ] },
+    "homepage": [
+      {
+        "id": "",
+        "type": "Text",
+        "label": { "en": [ "Final Scene" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "archive.org" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 48,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601405.us.archive.org/25/items/end-of-the-kindergarten-teacher_202104/End%20of%20the%20Kindergarten%20Teacher.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 48
+                },
+                "target": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
