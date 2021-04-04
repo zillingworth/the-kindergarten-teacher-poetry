@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/cinematography-and-dialogue.json",
+  "type": "AnnotationPage",
+  "label": "Cinematography and Dialogue",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/cinematography-and-dialogue-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Jimmy: I have a poem \rStill in close-up in the police cruiser through the window",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "39.05"
+        }
+      }
+    }
+  ]
+}

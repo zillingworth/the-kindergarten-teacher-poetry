@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/cinematography-and-narrative.json",
+  "type": "AnnotationPage",
+  "label": "Cinematography and Narrative",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/cinematography-and-narrative-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The door to the cruiser closes and the camera zooms in on Jimmy in the crusier. We can see reflections of the police officer on the cruiser's window like a palimpsest over his face. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "29.28"
+        }
+      }
+    }
+  ]
+}

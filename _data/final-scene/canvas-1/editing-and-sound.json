@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/editing-and-sound.json",
+  "type": "AnnotationPage",
+  "label": "Editing and Sound",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/editing-and-sound-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to black but retain diegetic sound from the police radio",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "46.06"
+        }
+      }
+    }
+  ]
+}

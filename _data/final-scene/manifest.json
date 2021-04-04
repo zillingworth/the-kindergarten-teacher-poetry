@@ -23,6 +23,68 @@
         "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas",
         "type": "Canvas",
         "duration": 48,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/editing-and-sound.json",
+            "label": "Editing and Sound"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/cinematography-and-editing.json",
+            "label": "Cinematography and Editing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/sound.json",
+            "label": "Sound"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/cinematography-and-dialogue.json",
+            "label": "Cinematography and Dialogue"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/sound--narrative--and-editing.json",
+            "label": "Sound, Narrative, and Editing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/cinematography-and-narrative.json",
+            "label": "Cinematography and Narrative"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/cinematography-and-sound.json",
+            "label": "Cinematography and Sound"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/sound-and-cinematography.json",
+            "label": "Sound and Cinematography"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/dialogue.json",
+            "label": "Dialogue"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/dialogue-and-narrative.json",
+            "label": "Dialogue and Narrative"
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/paintings",

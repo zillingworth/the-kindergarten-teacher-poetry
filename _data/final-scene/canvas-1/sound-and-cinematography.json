@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/sound-and-cinematography.json",
+  "type": "AnnotationPage",
+  "label": "Sound and Cinematography",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas/sound-and-cinematography-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Tracking shot of Jimmy being carried to a police cruiser and re-enter the sound of a non-diegetic piano note ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/the-kindergarten-teacher-poetry/final-scene/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "15.02"
+        }
+      }
+    }
+  ]
+}
