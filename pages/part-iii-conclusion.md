@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part III: Conclusion
+title: Conclusion
 permalink: part-iii-conclusion
 ---
 <!-- Add an essay or interpretive material below this line,
