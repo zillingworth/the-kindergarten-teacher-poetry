@@ -5,7 +5,7 @@ permalink: works-cited-
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-                                                                    Works Cited
+Works Cited
 
 Bursztajn-Illingworth, Zoe. “The Kindergarten Teacher.” AudiAnnotate.	https://zillingworth.github.io/the-kindergarten-teacher-poetry/. Accessed 17 Apr. 2021.
 Cavell, Stanley. The World Viewed: Reflections on the Ontology of Film. Harvard University	
